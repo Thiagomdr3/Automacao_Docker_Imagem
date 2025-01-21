@@ -20,3 +20,11 @@ jobs:
 
     - name: step 1
       run: echo Olá, rodou
+
+    - name: Docker Login
+      uses: docker/login-action@v3.3.0
+      with:
+        username: 'thiagomdr3'
+        password: ${{secrets.DOCKERHUB_PASSWORD}}
+
+          
