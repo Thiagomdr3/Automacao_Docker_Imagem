@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FIAP\\Aulas\\Modulo 2\\Nova pasta\\Automacao.Imagem.Docker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6016F829-43BC-4EDA-9E51-9A532ECF59B8}|Automacao.Imagem.Docker\\Automacao.Imagem.Docker.csproj|c:\\fiap\\aulas\\modulo 2\\nova pasta\\automacao.imagem.docker\\automacao.imagem.docker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6016F829-43BC-4EDA-9E51-9A532ECF59B8}|Automacao.Imagem.Docker\\Automacao.Imagem.Docker.csproj|solutionrelative:automacao.imagem.docker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FIAP\\Aulas\\Modulo 2\\Nova pasta\\Automacao.Imagem.Docker\\Automacao.Imagem.Docker\\Program.cs",
+              "RelativeDocumentMoniker": "Automacao.Imagem.Docker\\Program.cs",
+              "ToolTip": "C:\\FIAP\\Aulas\\Modulo 2\\Nova pasta\\Automacao.Imagem.Docker\\Automacao.Imagem.Docker\\Program.cs",
+              "RelativeToolTip": "Automacao.Imagem.Docker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:52:15.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
